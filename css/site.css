@@ -74,6 +74,10 @@ main>.container {
     width: 100%;
 }
 
+td.even{
+    font-weight: bold;
+}
+
 .dualFont {
     font-family: 'Akronim', cursive;
 }
